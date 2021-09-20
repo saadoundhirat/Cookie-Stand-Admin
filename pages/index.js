@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '../components/Header'
 import Main from '../components/Main'
-import Footer from '../components/Footer'
+// import Footer from '../components/Footer'
 
 export default function CookieStandAdmin() {
 
@@ -16,8 +16,6 @@ export default function CookieStandAdmin() {
       <Header />
 
       <Main />
-
-     <Footer/> 
 
     </div>
   )
